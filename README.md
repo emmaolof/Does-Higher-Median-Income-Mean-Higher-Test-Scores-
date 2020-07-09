@@ -21,7 +21,9 @@ Hypothesis: “If there is a correlation between median income and test scores, 
 
 Null Hypothesis: “If there is no correlation between median income and test scores in Indiana, then the r-value of income to test score ratio will be 0.”
 
-### Data Analysis Process (w/Jupyter Notebook)
+### Data Analysis Process (w/Jupyter Notebook) 
+
+Fantastic Four Final Project.ipynb
 
 
 Importing Data: Importing CSVs and merging data

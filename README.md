@@ -18,15 +18,24 @@ Is there a correlation between Muncie, Fort Wayne, and Indianapolis’ median in
 ### Hypothesis
 
 Hypothesis: “If there is a correlation between median income and test scores, then the r-value of income to test score ratio will be greater than .5”
+
 Null Hypothesis: “If there is no correlation between median income and test scores in Indiana, then the r-value of income to test score ratio will be 0.”
 
 ### Data Analysis Process (w/Jupyter Notebook)
 
+
 Importing Data: Importing CSVs and merging data
+
+
 Cleaning Data: Removing duplicates, null, and incomplete values
+
+
 Correlation Calculations: Statewide, Muncie, Fort Wayne, and Indianapolis
+
+
 Data Visualizations: Scatterplots, Bar, and Pie Charts with Jupyter Notebook
-Zoom-out Comparison: Between Indiana and Tennessee SAT Scores
+
+
 Making Conclusions: Presenting results based on correlation calculations
 
 

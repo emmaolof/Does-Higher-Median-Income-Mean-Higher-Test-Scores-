@@ -23,7 +23,7 @@ Null Hypothesis: “If there is no correlation between median income and test sc
 
 ### Data Analysis Process (w/Jupyter Notebook) 
 
-
+https://github.com/emmaolof/FirstProject/blob/master/Fantastic%20Four%20Final%20Project.ipynb
 
 Importing Data: Importing CSVs and merging data
 

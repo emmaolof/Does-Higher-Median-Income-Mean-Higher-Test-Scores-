@@ -13,7 +13,7 @@ Sources of Data for Analysis:
 ### Data Exploration: 
 
 Is there a correlation between higher median income and higher test scores in Indiana?
-Is there a correlation between Muncie, Fort Wayne, and Indianapolis’ median incomes and test scores? (narrowing our scope)
+Is there a correlation between Muncie, Fort Wayne, and Indianapolis’ median incomes and test scores? (narrowing the scope)
 
 ### Hypothesis
 
